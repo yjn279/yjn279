@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!-- Badges -->
 <p align="left">
   <a href="https://github.com/yjn279/yjn279/">
     <img src="https://komarev.com/ghpvc/?username=yjn279" alt="yjn279" />
@@ -17,6 +18,9 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/yjn279/contributions.svg" />
   </a>
 </p>
+
+<!-- Cards -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yjn279)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yuji-0207/yuji-0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
