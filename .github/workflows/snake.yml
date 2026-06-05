@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - feat/profile-redesign
 
 # Least privilege by default; write is granted only to the job that pushes.
 permissions:
