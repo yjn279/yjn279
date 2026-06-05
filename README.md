@@ -22,17 +22,17 @@
 
 ## About
 
-横浜を拠点に、ビジネスとコードの交差点でプロダクトをつくる Forward Deployed Engineer です。最近はAIエージェントとLLMツールの開発に注力しています。
+A Forward Deployed Engineer based in Yokohama, building products where business strategy meets clean code. Lately I'm focused on shipping AI agents and LLM tooling.
 
-いま、こんなことに取り組んでいます。
+I am currently:
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" /> &nbsp;AIエージェントとLLMツールを開発中 — `jarvis`, `trinity`, `discord-threads`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> &nbsp;プロダクトマネジメントと事業開発を学習中
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" width="20" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" /> &nbsp;ピアノと淹れたてのコーヒーで充電中
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" /> &nbsp;Building AI agents and LLM tooling — `jarvis`, `trinity`, and `discord-threads`
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> &nbsp;Leveling up in product management and business development
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" width="20" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" /> &nbsp;Recharging at the piano with a fresh cup of coffee
 
 ## Tech Stack
 
-よく使う道具を、スタックの階層ごとに整理しました。
+The tools I reach for, grouped by where they live in the stack.
 
 | Category | Stack |
 | :-- | :-- |
@@ -44,7 +44,7 @@
 
 ## Activity
 
-コントリビューションという名の街を、1コミットずつ食べ進んでいます。
+A city of contributions, devoured one commit at a time.
 
 <div align="center">
 
@@ -57,6 +57,8 @@
 </div>
 
 ## Connect
+
+Always up for a chat about products, LLMs, or a good cup of coffee — reach me here.
 
 <div align="center">
 
