@@ -22,7 +22,7 @@
 
 ## About
 
-A Forward Deployed Engineer based in Yokohama, building products where business strategy meets clean code. Lately I'm focused on shipping AI agents and LLM tooling.
+Marketing-domain engineer and PM-in-training based in Yokohama. I build products where business strategy meets clean code, research seismology at Yokohama City University, and spend the rest of my cycles on LLMs, the piano, and a slow pour-over.
 
 I am currently:
 
