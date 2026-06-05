@@ -1,7 +1,12 @@
 <!-- ░░░ HERO ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=200&section=header&text=winnie279&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="winnie279" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=160&section=header" width="100%" alt="" />
+
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
+  &nbsp;Hi, I'm winnie279
+</h1>
 
 <a href="https://github.com/yjn279">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=50&lines=Marketing+Engineer+%C3%97+PM+in+the+making;Seismology+Researcher+%40+Yokohama+City+Univ.;Crafting+AI+agents+with+Claude+and+MCP;Powered+by+Piano+and+Coffee" alt="Typing SVG" />
@@ -16,8 +21,6 @@
 </div>
 
 ## About
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26" align="left" />
 
 Marketing-domain engineer and PM-in-training based in Yokohama. I build products where business strategy meets clean code, research seismology at Yokohama City University, and spend the rest of my cycles on LLMs, the piano, and a slow pour-over.
 
@@ -64,8 +67,6 @@ A city of contributions, devoured one commit at a time.
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/yjn279/yjn279/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yjn279&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F472B6&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Skyline" width="100%" alt="activity graph" />
-
 </div>
 
 ## Connect
@@ -82,7 +83,7 @@ A city of contributions, devoured one commit at a time.
 <!-- ░░░ FOOTER ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CF6&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CF6&height=120&section=footer" width="100%" alt="" />
 
 <sub><i>無駄を削ぎ落とし、本質を磨きあげる。 — strip away the unnecessary, polish what is essential.</i></sub>
 
