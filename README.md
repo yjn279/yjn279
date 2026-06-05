@@ -8,9 +8,12 @@
   &nbsp;Hi, I'm winnie279
 </h1>
 
-<a href="https://github.com/yjn279">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=50&repeat=true&lines=Marketing+Engineer+%C3%97+PM+in+the+making;Seismology+Researcher+%40+Yokohama+City+Univ.;Crafting+AI+agents+with+Claude+and+MCP;Powered+by+Piano+and+Coffee" alt="Typing SVG" />
-</a>
+<p>
+  <b>Marketing Engineer × PM</b> &nbsp;·&nbsp; Seismology Researcher &nbsp;·&nbsp; LLM Builder
+</p>
+<p>
+  <sub>Crafting AI agents with Claude & MCP &nbsp;·&nbsp; powered by piano and coffee</sub>
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yjn279&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="profile views" />
