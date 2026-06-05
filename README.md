@@ -9,12 +9,12 @@
 </h1>
 
 <a href="https://github.com/yjn279">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=50&lines=Marketing+Engineer+%C3%97+PM+in+the+making;Seismology+Researcher+%40+Yokohama+City+Univ.;Crafting+AI+agents+with+Claude+and+MCP;Powered+by+Piano+and+Coffee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&height=50&repeat=true&lines=Marketing+Engineer+%C3%97+PM+in+the+making;Seismology+Researcher+%40+Yokohama+City+Univ.;Crafting+AI+agents+with+Claude+and+MCP;Powered+by+Piano+and+Coffee" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yjn279&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yjn279?style=for-the-badge&logo=github&logoColor=white&color=A78BFA&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/badge/Based_in-Yokohama,_JP-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Yokohama, JP" />
   <img src="https://img.shields.io/badge/INTJ-F472B6?style=for-the-badge&logoColor=white" alt="INTJ" />
 </p>
 
