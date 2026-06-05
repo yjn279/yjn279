@@ -2,7 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # 1日1回だけ更新（21:30 UTC = 06:30 JST）。混雑する毎時00分を避けて offset。
+    - cron: "30 21 * * *"
   workflow_dispatch:
   push:
     branches:
