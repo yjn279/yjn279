@@ -5,14 +5,11 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
-  &nbsp;Hi, I'm winnie279
+  &nbsp;Hi, I'm winnie
 </h1>
 
 <p>
-  <b>Marketing Engineer × PM</b> &nbsp;·&nbsp; Seismology Researcher &nbsp;·&nbsp; LLM Builder
-</p>
-<p>
-  <sub>Crafting AI agents with Claude & MCP &nbsp;·&nbsp; powered by piano and coffee</sub>
+  <b>Forward Deployed Engineer</b>
 </p>
 
 <p>
@@ -25,19 +22,17 @@
 
 ## About
 
-Marketing-domain engineer and PM-in-training based in Yokohama. I build products where business strategy meets clean code, research seismology at Yokohama City University, and spend the rest of my cycles on LLMs, the piano, and a slow pour-over.
+横浜を拠点に、ビジネスとコードの交差点でプロダクトをつくる Forward Deployed Engineer です。最近はAIエージェントとLLMツールの開発に注力しています。
 
-I am currently:
+いま、こんなことに取り組んでいます。
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" /> &nbsp;Building AI agents and LLM tooling — `jarvis`, `trinity`, and `discord-threads`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> &nbsp;Leveling up in product management and business development
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="20" /> &nbsp;Researching seismology at Yokohama City University
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="20" /> &nbsp;Stripping the noise to polish the signal — an essentialist by design
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" width="20" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" /> &nbsp;Recharging at the piano with a fresh cup of coffee
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" /> &nbsp;AIエージェントとLLMツールを開発中 — `jarvis`, `trinity`, `discord-threads`
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> &nbsp;プロダクトマネジメントと事業開発を学習中
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" width="20" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" /> &nbsp;ピアノと淹れたてのコーヒーで充電中
 
 ## Tech Stack
 
-The tools I reach for, grouped by where they live in the stack.
+よく使う道具を、スタックの階層ごとに整理しました。
 
 | Category | Stack |
 | :-- | :-- |
@@ -49,7 +44,7 @@ The tools I reach for, grouped by where they live in the stack.
 
 ## Activity
 
-A city of contributions, devoured one commit at a time.
+コントリビューションという名の街を、1コミットずつ食べ進んでいます。
 
 <div align="center">
 
@@ -76,7 +71,5 @@ A city of contributions, devoured one commit at a time.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CF6&height=120&section=footer" width="100%" alt="" />
-
-<sub><i>無駄を削ぎ落とし、本質を磨きあげる。 — strip away the unnecessary, polish what is essential.</i></sub>
 
 </div>
