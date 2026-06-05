@@ -47,17 +47,6 @@ The tools I reach for, grouped by where they live in the stack.
 | Data & Infra | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 | Tooling | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white) |
 
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yjn279&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjn279&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yjn279&hide_border=true&background=0D1117&stroke=30363D&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
-
-</div>
-
 ## Activity
 
 A city of contributions, devoured one commit at a time.
